@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "2.7.0"
+ruby "2.7.0" 
 
 gem 'devise', '~> 4.8', '>= 4.8.1'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
